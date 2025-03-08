@@ -42,7 +42,10 @@
 </p>
 <p align="center">
 <a href="www.linkedin.com/in/abdalshykh"><img src="https://img.shields.io/badge/Abdal%20Khalid-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:abdalkhaid11@gmail.com"><img src="https://img.shields.io/badge/abdalkhalid11@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdalshykh" target="_blank">
+  <img src="https://img.shields.io/badge/Abdal%20Khalid-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
 
 <a href="mailto:abdalkhaid11@gmail.com"><img src="https://img.shields.io/badge/abdalkhalid11@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
