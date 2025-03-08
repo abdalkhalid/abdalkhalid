@@ -22,7 +22,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="100" alt="CSS3">
       </td>
       <td align="center" width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/WordPress_blue_logo.png" width="100>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" width="100" alt="WordPress">
       </td>
       <td align="center" width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100" alt="Python">
