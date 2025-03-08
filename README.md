@@ -39,10 +39,11 @@
     
 </table>
 </p>
+</p>
 <p align="center">
-<a href="www.linkedin.com/in/abdalshykh><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s &
-	style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:abdalkhalid11@gmail.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="www.linkedin.com/in/abdalshykh"><img src="https://img.shields.io/badge/Abdal%20Khalid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:abdalkhaid11@gmail.com"><img src="https://img.shields.io/badge/abdalkhalid11@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
  </p>
  
 <br>
