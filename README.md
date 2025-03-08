@@ -9,13 +9,8 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
+🤵 Student @ NED University of Engineeing and Technology
 	
-👨‍💻 AI Engineer CargoAI
-	
-💸 Help 80+ Clients via Generative AI & Automation
-
-📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
  
 <h2>Tech Stack</h2>
 
@@ -45,9 +40,9 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/hammad-nadeem-6673981b5/"><img src="https://img.shields.io/badge/-Hammad%20Sheikh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:hammadn788@gmail.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/hammad2980/"><img src="https://img.shields.io/badge/-@hammad2980-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="www.linkedin.com/in/abdalshykh><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s &
+	style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:abdalkhalid11@gmail.com"><img src="https://img.shields.io/badge/-hammadn788@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
  </p>
  
 <br>
