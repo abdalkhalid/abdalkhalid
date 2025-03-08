@@ -41,7 +41,7 @@
 </p>
 </p>
 <p align="center">
-<a href="www.linkedin.com/in/abdalshykh"><img src="https://img.shields.io/badge/Abdal%20Khalid-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/abdalshykh"><img src="https://img.shields.io/badge/Abdal%20Khalid-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:abdalkhaid11@gmail.com"><img src="https://img.shields.io/badge/abdalkhalid11@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
  </p>
