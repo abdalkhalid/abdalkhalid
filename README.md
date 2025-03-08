@@ -37,9 +37,6 @@
     <a href="https://www.linkedin.com/in/abdalshykh" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Abdal%20Khalid-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    
-    <a href="mailto:abdalkhaid11@gmail.com">
-      <img src="https://img.shields.io/badge/Email-abdalkhalid11@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
+    <a href="mailto:abdalkhaid11@gmail.com"><img src="https://img.shields.io/badge/abdalkhalid11@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   </p>
 </body>
