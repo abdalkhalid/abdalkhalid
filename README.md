@@ -22,7 +22,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="100" alt="CSS3">
       </td>
       <td align="center" width="200">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzBAeNRyaVHnyq6zUmQeNset_p6u5o511LIw&s">
+        <img src="https://icon2.cleanpng.com/20180702/aoz/aaw4tgl4f.webp">
       </td>
       <td align="center" width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100" alt="Python">
