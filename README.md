@@ -5,7 +5,7 @@
 
   <p align="center">
     <a href="https://abdalkhalid.github.io/portfolio/index.html">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=WordPress+Developer;Django+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=WordPress+Developer;Django+Developer+AI+ChatBot+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676">
     </a>
   </p>
 
@@ -29,6 +29,10 @@
       </td>
       <td align="center" width="200">
         <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" width="100" alt="Django">
+      </td>
+      <td align="center" width="200">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFiot4JJtlDiNTa6eV_24amcuZuvQj2vgBDg&s" width="100" alt="DialogFlow Chat
+          bot">
       </td>
     </tr>
   </table>
