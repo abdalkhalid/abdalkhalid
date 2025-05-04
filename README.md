@@ -31,7 +31,7 @@
         <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" width="100" alt="Django">
       </td>
       <td align="center" width="200">
-        <img src="https://e7.pngegg.com/pngimages/72/731/png-clipart-dialogflow-chatbot-conversation-google-natural-language-processing-google-angle-rectangle.png" width="100" alt="DialogFlow Chat
+        <img src="https://images.seeklogo.com/logo-png/39/1/dialogflow-logo-png_seeklogo-394545.png" width="100" alt="DialogFlow Chat
           bot">
       </td>
     </tr>
